@@ -8,13 +8,14 @@ some notes
    * collaborative document
    * folder
    * spreadsheet
-   *chat
+   * chat
    
-list of p2p links
-super easy to add new types
-anyone could extend this drive for any p2p app filetype
-ecosystem would explode
-games etc
+properties
+* list of p2p links
+* super easy to add new types
+* anyone could extend this drive for any p2p app filetype
+* ecosystem would explode
+* games etc
 
 a drive is a folder hierarchy of uris
 - replicate method
